@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@wdns/vue-code-block": "^2.3.5"
+  }
+}
