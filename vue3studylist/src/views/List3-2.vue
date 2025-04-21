@@ -14,11 +14,7 @@ const code3_2 = ref(`
 <template>
   <div>
     <h1></h1>
-    <VCodeBlock :code="code3_2" highlightjs label="リスト3-2" lang="javascript" theme="neon-bunny" />
-    
-  
-  
-  
+      <VCodeBlock :code="code3_2" highlightjs label="リスト3-2" lang="javascript" theme="neon-bunny" />
   </div>
 
 </template>
